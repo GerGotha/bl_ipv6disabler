@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IPv6Disabler": {
+      "commandName": "Executable",
+      "executablePath": "%MB_SERVER_PATH%\\bin\\Win64_Shipping_Server\\DedicatedCustomServer.Starter.exe",
+      "commandLineArgs": "_MODULES_*Native*Multiplayer*AdimiToolsServer*IPv6Disabler*_MODULES_ /dedicatedcustomserverconfigfile ..\\BalancePatch_Server\\config.txt /port 7210 /no_watchdog",
+      "workingDirectory": "%MB_SERVER_PATH%\\bin\\Win64_Shipping_Server"
+    }
+  }
+}

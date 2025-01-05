@@ -1,0 +1,17 @@
+<Module>
+  <Name value = "IPv6Disabler Server"/>
+  <Id value = "IPv6Disabler"/>
+  <Version value = "v1.0.0"/>
+  <ModuleCategory value="Server"/>
+  <SubModules>
+    <SubModule>
+      <Name value = "IPv6Disabler_Server"/>
+      <DLLName value = "IPv6Disabler_Server.dll"/>
+      <SubModuleClassType value = "BL_IPv6Disabler.IPv6DisablerSubModule"/>
+      <Tags>
+        <Tag key="DedicatedServerType" value="custom" />
+        <Tag key="PlayerHostedDedicatedServer" value="true" />
+      </Tags>
+    </SubModule>
+  </SubModules>
+</Module>

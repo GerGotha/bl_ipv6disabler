@@ -1,0 +1,13 @@
+M:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Dedicated Server\Modules\IPv6Disabler\bin\Win64_Shipping_Server\0Harmony.dll
+M:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Dedicated Server\Modules\IPv6Disabler\bin\Win64_Shipping_Server\IPv6Disabler_Server.deps.json
+M:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Dedicated Server\Modules\IPv6Disabler\bin\Win64_Shipping_Server\IPv6Disabler_Server.dll
+M:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Dedicated Server\Modules\IPv6Disabler\bin\Win64_Shipping_Server\IPv6Disabler_Server.pdb
+H:\Dokumente\Repos\bl_ipv6disabler\BL_IPv6Disabler\obj\Debug\BL_IPv6Disabler.csproj.AssemblyReference.cache
+H:\Dokumente\Repos\bl_ipv6disabler\BL_IPv6Disabler\obj\Debug\BL_IPv6Disabler.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dokumente\Repos\bl_ipv6disabler\BL_IPv6Disabler\obj\Debug\BL_IPv6Disabler.AssemblyInfoInputs.cache
+H:\Dokumente\Repos\bl_ipv6disabler\BL_IPv6Disabler\obj\Debug\BL_IPv6Disabler.AssemblyInfo.cs
+H:\Dokumente\Repos\bl_ipv6disabler\BL_IPv6Disabler\obj\Debug\BL_IPv6Disabler.csproj.CoreCompileInputs.cache
+H:\Dokumente\Repos\bl_ipv6disabler\BL_IPv6Disabler\obj\Debug\IPv6Disabler_Server.dll
+H:\Dokumente\Repos\bl_ipv6disabler\BL_IPv6Disabler\obj\Debug\refint\IPv6Disabler_Server.dll
+H:\Dokumente\Repos\bl_ipv6disabler\BL_IPv6Disabler\obj\Debug\IPv6Disabler_Server.pdb
+H:\Dokumente\Repos\bl_ipv6disabler\BL_IPv6Disabler\obj\Debug\ref\IPv6Disabler_Server.dll
